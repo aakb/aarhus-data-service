@@ -1,0 +1,19 @@
+{
+  "name": "aarhus-data-service",
+  "version": "1.0.0",
+  "description": "aarhus data service",
+  "main": "app.js",
+  "dependencies": {
+    "architect": "^0.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "debug": "DEBUG=* node app.js"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Troels Ugilt Jensen",
+  "license": "MIT"
+}
